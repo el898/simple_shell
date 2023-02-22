@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "main.h"
+#include "shell.h"
 
 /**
  * factorial - calculates the factorial of a given integer n
